@@ -10,50 +10,41 @@ redirect_from:
 
 Hi! I am graduating with a Bachelor Degree of Information Technology (Software Information System) from The University of Queensland in coming November 2020. My main interests mainly include full stack developer and UI/UX design. 
 
+
+About Me
+======
+
+
+Education
+======
+
+
 Project Experience
 ======
-* **CatsEG** Full Stack Development (August 2020 - Present)   
+* **CatsEG** Full Stack Development (Aug 2020 - Present)   
 CatsEG is a website for grade 6 and 7 Australian students to better enhance their learning in academics through gamifications. The project idea is proposed by another group of students from the course DECO3800 in The University of Queensland, then it was handled to my team to build this idea from scratch during the course DECO3801. It was assumed that sufficient research has been done to propose this idea. CatsEG aims to help Australian grade 6 and 7 studnets to learn better using gamifications, rather than the tradiational way of learning from papers. This project involved in building and integrating Unity game and website as a platform. I am participating with a team of 6 members, resposible for creating the pages (using skills HTML, CSS, Javascript, AJAX, PHP) and managing backend database as a full stack developer with another member.
   * Adopting pure PHP for web pages development and PhpMyAdmin as database management system.
   * Developing with Agile Scrum framework.
   * Assisting user test plan and conduct tests.<br>
   (More to be updated)
-* **Polyhedron Game** Designer (August 2020 - Present)  
+* **Polyhedron** Game Designer (Aug 2020 - Present)  
 Polyhedron is an ongoing game developing project working with interdisciplinary teams of students undertake studio-based programming project. Polyhedeon is an action-role playing game set in a medieval European High Fantansy world where players customise magical mechs known as <em>Polyhedrons</em> and use them to fight against monsters to secure the five pythagoras Orbs and protected the Kingdom of Decodia. I am participating as a designer in a team of 4 members.
   * Developing with Agile Scrum framework.
   * Digital art drawing and research for design process.
-  * Adopting A/B testing and face-to-face interviews for testing process.
-* **Event Scheduler** Full Stack Development (February - June 2020)
+  * Adopting A/B testing and face-to-face interviews for testing process.<br>
+  (More to be updated)
+* **Event Scheduler** Full Stack Development (Feb - Jun 2020)
+* **Puppiness** Digital Prototyping (Jul - Oct 2019)
+* **UOB Car Loan** Frontend Developer (Mar - Jul 2018)
  
 
-Getting started
+Working Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* **Roving Technical Assistant**, NCS Group, Sinapore (Mar - Jun 2019)
+* **Internship: Fronend Developer (eCommerce)**, United Overseas Bank (UOB), Singapore (Mar - Jul 2018)
+* **Internship: Marketing - Leads Generation and Analysis**, Jusfeedback Pte. Ltd., Singapore (Sept - Oct 2016)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
