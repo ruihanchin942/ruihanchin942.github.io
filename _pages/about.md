@@ -31,7 +31,6 @@ Polyhedron is an ongoing game developing project working with interdisciplinary 
   (More to be updated)
 * **Event Scheduler** Full Stack Development (Feb - Jun 2020)
 Event Scheduler was an academic project developed during the course INFS3202 (Web Information System) from The University of Queensland. The students were given a task to build a website with the topics provided. It is designed to test student's ability of WIS design and development. The topic I selected was Event Scheduler, a system which allows users to schedule and event based on availability. 
-
 Mandatory Features: <br>
   * Support Users - The Web Information System must support user authentication and user authorization.
   * 3-Tier Architecture
