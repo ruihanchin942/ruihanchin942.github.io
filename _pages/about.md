@@ -11,10 +11,6 @@ redirect_from:
 Hi! I am graduating with a Bachelor Degree of Information Technology (Software Information System) from The University of Queensland in coming November 2020. My main interests mainly include full stack developer and UI/UX design. 
 
 
-About Me
-======
-
-
 Education
 ======
 
@@ -34,6 +30,18 @@ Polyhedron is an ongoing game developing project working with interdisciplinary 
   * Adopting A/B testing and face-to-face interviews for testing process.<br>
   (More to be updated)
 * **Event Scheduler** Full Stack Development (Feb - Jun 2020)
+Event Scheduler was an academic project developed during the course INFS3202 (Web Information System) from The University of Queensland. The students were given a task to build a website with the topics provided. It is designed to test student's ability of WIS design and development. The topic I selected was Event Scheduler, a system which allows users to schedule and event based on availability. 
+
+Mandatory Features: <br>
+  * Support Users - The Web Information System must support user authentication and user authorization.
+  * 3-Tier Architecture
+    * Client that can access your WIS and communicate with WIS's server.
+    * A server that can communicate with client and database.
+    * A database that stores data in a persistent manner, and it must communicate with the server.
+  * Deployment
+    * Project deployed on UQ Zone.
+    
+ 
 * **Puppiness** Digital Prototyping (Jul - Oct 2019)
 * **UOB Car Loan** Frontend Developer (Mar - Jul 2018)
  
