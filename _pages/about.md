@@ -17,18 +17,20 @@ Education
 
 Project Experience
 ======
-* **CatsEG** Full Stack Development (Aug 2020 - Present)   
-CatsEG is a website for grade 6 and 7 Australian students to better enhance their learning in academics through gamifications. The project idea is proposed by another group of students from the course DECO3800 in The University of Queensland, then it was handled to my team to build this idea from scratch during the course DECO3801. It was assumed that sufficient research has been done to propose this idea. CatsEG aims to help Australian grade 6 and 7 studnets to learn better using gamifications, rather than the tradiational way of learning from papers. This project involved in building and integrating Unity game and website as a platform. I am participating with a team of 6 members, resposible for creating the pages (using skills HTML, CSS, Javascript, AJAX, PHP) and managing backend database as a full stack developer with another member.
+* **CatsEG** Full Stack Development (Aug 2020 - Oct 2020)   
+CatsEG is a website for grade 7 and 9 Australian students to better enhance their learning in academics through gamifications. This project was developed under the course DECO3801 (Design and Computing Studio 3 - Build) for The University of Queensland. The project idea is proposed by another group of students from the course DECO3801 in The University of Queensland, then it was handled to my team to build this idea from scratch during the course DECO3801. It was assumed that sufficient research has been done to propose this idea. CatsEG aims to help Australian grade 7 and 9 studnets to learn better using gamifications, rather than the tradiational way of learning from papers. This project involved in building and integrating Unity game and website as a platform. I am participating with a team of 6 members, resposible for creating the pages (using skills HTML, CSS, Javascript, AJAX, PHP) and managing backend database as a full stack developer with another member.
   * Adopting pure PHP for web pages development and PhpMyAdmin as database management system.
   * Developing with Agile Scrum framework.
-  * Assisting user test plan and conduct tests.<br>
-  (More to be updated)
-* **Polyhedron** Game Designer (Aug 2020 - Present)  
-Polyhedron is an ongoing game developing project working with interdisciplinary teams of students undertake studio-based programming project. Polyhedeon is an action-role playing game set in a medieval European High Fantansy world where players customise magical mechs known as <em>Polyhedrons</em> and use them to fight against monsters to secure the five pythagoras Orbs and protected the Kingdom of Decodia. I am participating as a designer in a team of 4 members.
+  * Assisting user test plan and conduct tests.
+  * Front-end pages management.
+  * Deployment
+    * UQZone<br>
+* **Polyhedron** Game Designer (Aug 2020 - Oct 2020)  
+Polyhedron is an ongoing game developing project working with interdisciplinary teams of students undertake studio-based programming project, under the course DECO2800 (Design Computing Studio 2 - Testing & Evaluation) for The University of Queensland. Polyhedeon is an action-role playing game set in a medieval European High Fantansy world where players customise magical mechs known as <em>Polyhedrons</em> and use them to fight against monsters to secure the five pythagoras Orbs and protected the Kingdom of Decodia. I am participating as a designer in a team of 4 members.
   * Developing with Agile Scrum framework.
   * Digital art drawing and research for design process.
-  * Adopting A/B testing and face-to-face interviews for testing process.<br>
-  (More to be updated)
+  * Adopting A/B testing and face-to-face interviews for testing process.
+  * Play test for the entire game.<br>
 * **Event Scheduler** Full Stack Development (Feb - Jun 2020)
 Event Scheduler was an academic project developed during the course INFS3202 (Web Information System) from The University of Queensland. The students were given a task to build a website with the topics provided. It is designed to test student's ability of WIS design and development. The topic I selected was Event Scheduler, a system which allows users to schedule and event based on availability. 
 Mandatory Features: <br>
@@ -39,9 +41,8 @@ Mandatory Features: <br>
     * A database that stores data in a persistent manner, and it must communicate with the server.
   * Deployment
     * Project deployed on UQ Zone.
-    
- 
 * **Puppiness** Digital Prototyping (Jul - Oct 2019)
+Puppupiness is an individual academic project developed during the course DECO2300 (Digital Prototyping) from The University of Queensland. The main purpose of this project was to develop a number of prototypes as a means of evaluating conceptual and functional aspects of an idea. Provided with a list of challenges, I chose to design a game that encapsulates the concepts and ideas. This game was developed for playing with VR equipments, which combined both physical and digital media 
 * **UOB Car Loan** Frontend Developer (Mar - Jul 2018)
  
 
