@@ -16,7 +16,7 @@ Education
 * **Bachelor of Information Technology(Software Information System)**, The University of Queensland, Australia - Nov 2020
 * **Diploma in Business Applications**, Republic Polytechnic, Singapore - Mar 2019
 * Queenstown Secondary School, Singapore - Nov 2015 
-* Xie He Shang Yin Bilingual School - Jun 2011
+* Xie He Shang Yin Bilingual School, Shanghai, China - Jun 2011
 
 
 Project Experience
